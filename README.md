@@ -1,0 +1,10 @@
+# Лабораторные работы по курсу "ЭВМ и периферийные устройства" НГУ
+1. [Определение времени работы прикладных программ.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab1) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab1/Условие.pdf)
+2. [Изучение оптимизирующего компилятора.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab2) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab2/Условие.pdf)
+3. [Введение в архитектуру x86/x86-64.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab3) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab3/Условие.pdf)
+4. [Введение в архитектуру ARM.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab4) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab4/Условие.pdf)
+5. [Высокоуровневая работа с периферийными устройствами. Работа с веб камерой при помощи OpenCV.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab5) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab5/Условие.pdf)
+6. [Низкоуровневая работа с периферийными устройствами. Работа с usb при помощи LibUSB.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab6) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab6/Условие.pdf)
+7. [Векторизация вычислений.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab7) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab7/Условие.pdf)
+8. [Влияние кэш-памяти на время обработки массивов.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab8) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab8/Условие.pdf)
+9. [Измерение степени ассоциативности кэш-памяти.](https://github.com/Dross0/Computer-Systems-Labs/tree/master/lab9) [Условие](https://github.com/Dross0/Computer-Systems-Labs/blob/master/lab9/Условие.pdf)
